@@ -14,4 +14,5 @@ public class RightAngle_Pattern {
         System.out.println();
         sc.close();
     }
+    
 }
