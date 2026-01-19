@@ -16,10 +16,10 @@ public class DiamondShape_Pattern {
             }
             if (i <= num / 2) {
                 space--;
-                str += 2;
+                str = str + 2;
             } else {
                 space++;
-                str-=2;
+                str = str - 2;
             }
             System.out.println();
         }
