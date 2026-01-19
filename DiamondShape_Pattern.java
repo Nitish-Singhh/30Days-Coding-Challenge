@@ -19,7 +19,7 @@ public class DiamondShape_Pattern {
                 str = str + 2;
             } else {
                 space++;
-                str = str - 2;
+                str = str -2;
             }
             System.out.println();
         }
